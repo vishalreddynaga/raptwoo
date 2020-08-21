@@ -1,0 +1,13 @@
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.exe
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.deps.json
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.runtimeconfig.json
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.runtimeconfig.dev.json
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.dll
+C:\Users\vnaga\Videos\Mosh\raptwo\bin\Debug\netcoreapp3.1\raptwo.pdb
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.csprojAssemblyReference.cache
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.AssemblyInfoInputs.cache
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.AssemblyInfo.cs
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.csproj.CoreCompileInputs.cache
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.dll
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.pdb
+C:\Users\vnaga\Videos\Mosh\raptwo\obj\Debug\netcoreapp3.1\raptwo.genruntimeconfig.cache
